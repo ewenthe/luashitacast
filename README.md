@@ -1,4 +1,6 @@
-# Rag's LuAshitacast
+# ~~Rag's~~ Awelowynt's LuAshitacast
+
+Many thanks to Rag for these, it's a useful template for me to get started with and slowly customize into my own. 
 
 A combined LuAshitacast for HorizonXI (Lvl 75 era) that was originally based off of https://github.com/GetAwayCoxn/Luashitacast-Profiles
 
